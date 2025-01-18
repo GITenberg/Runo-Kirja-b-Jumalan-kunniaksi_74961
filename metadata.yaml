@@ -1,0 +1,35 @@
+_repo: Runo-Kirja-b-Jumalan-kunniaksi_74961
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Ganander, Christfrid
+    aliases:
+    - Thomasson, Christfrid Ganander
+    - Ganander, Kristfriid
+    birthdate: 1741
+    deathdate: 1790
+    gutenberg_agent_id: '43898'
+    url: http://www.gutenberg.org/2009/agents/43898
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Cristfried_Ganander
+    - https://fi.wikipedia.org/wiki/Christfried_Ganander
+description: ''
+gutenberg_issued: '2024-12-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74961'
+language: fi
+pgterms:marc905: 20241218010855ganander
+pgterms:marc906: '1786'
+pgterms:marc907: FI
+production_note: Jari Koivisto
+publication_note: '  $aVaasa :$bGeorg Wilhelm Londicer, $c1786.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Religious poetry'
+- !lcc 'PH'
+- GITenberg
+title: 'Runo-Kirja : $b Jumalan kunniaksi!'
+url: http://www.gutenberg.org/ebooks/74961
